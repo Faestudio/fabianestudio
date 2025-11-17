@@ -1,0 +1,272 @@
+[
+  {
+    "query": "A modern commercial building with glass facade for architecture portfolio",
+    "image_info": {
+      "url": "https://cdn.homedit.com/wp-content/uploads/2019/05/Glass-Colored-School-in-Ejea-de-Los-Caballeros.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 254898,
+      "width": 1334,
+      "height": 896,
+      "total_pixels": 1195264,
+      "basic_score": 0.9407650453360528,
+      "file_name": "commercial_building_9.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "A modern commercial building with glass facade for architecture portfolio",
+    "image_info": {
+      "url": "https://static.dezeen.com/uploads/2015/11/Framework_WorksArchitecture_Portland_Oregon_USA_cross-laminated-timber-office-building_dezeen_936_7.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 153407,
+      "width": 936,
+      "height": 1049,
+      "total_pixels": 981864,
+      "basic_score": 0.9242104534909532,
+      "file_name": "commercial_building_8.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "A modern commercial building with glass facade for architecture portfolio",
+    "image_info": {
+      "url": "https://media.architecturaldigest.com/photos/567899b97fd9a58978b7c3a2/master/w_1024%2Cc_limit/innovative-glass-buildings-02.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 112353,
+      "width": 1024,
+      "height": 767,
+      "total_pixels": 785408,
+      "basic_score": 0.9181782798962617,
+      "file_name": "commercial_building_3.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "A beautiful modern house exterior for residential architecture portfolio",
+    "image_info": {
+      "url": "https://hips.hearstapps.com/hmg-prod/images/edc100123egan-002-6500742f5feb7.jpg?crop=0.688xw:1.00xh;0.157xw,0&resize=1120:*",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 470470,
+      "width": 1120,
+      "height": 1115,
+      "total_pixels": 1248800,
+      "basic_score": 0.9390898861781607,
+      "file_name": "modern_house_3.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "A beautiful modern house exterior for residential architecture portfolio",
+    "image_info": {
+      "url": "https://cdn.home-designing.com/wp-content/uploads/2017/05/wood-white-and-charcoal-modern-exterior-paint-themes.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 184036,
+      "width": 1200,
+      "height": 675,
+      "total_pixels": 810000,
+      "basic_score": 0.9275566527704842,
+      "file_name": "modern_house_4.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "A beautiful modern house exterior for residential architecture portfolio",
+    "image_info": {
+      "url": "https://mariakillam.com/wp-content/uploads/2020/09/step-one-design-1024x768.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 147815,
+      "width": 1024,
+      "height": 768,
+      "total_pixels": 786432,
+      "basic_score": 0.9218492612180831,
+      "file_name": "modern_house_1.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Sustainable eco-friendly house design for green architecture portfolio",
+    "image_info": {
+      "url": "https://cdn.mos.cms.futurecdn.net/rFWTirBgcDcqhLMHPhnL4e.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 433238,
+      "width": 1180,
+      "height": 664,
+      "total_pixels": 783520,
+      "basic_score": 0.9437692462774148,
+      "file_name": "sustainable_house_0.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Sustainable eco-friendly house design for green architecture portfolio",
+    "image_info": {
+      "url": "https://blog.novatr.com/hubfs/A%20sustainable%20home%20along%20a%20landscape.webp",
+      "img_format": "WEBP",
+      "mode": "RGB",
+      "file_size": 1133904,
+      "width": 1200,
+      "height": 600,
+      "total_pixels": 720000,
+      "basic_score": 0.9363274217462075,
+      "file_name": "sustainable_house_2.webp"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Sustainable eco-friendly house design for green architecture portfolio",
+    "image_info": {
+      "url": "https://fontanarchitecture.com/wp-content/uploads/2016/08/Sustainable-House-Design.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 86395,
+      "width": 1200,
+      "height": 800,
+      "total_pixels": 960000,
+      "basic_score": 0.9317272617179918,
+      "file_name": "sustainable_house_4.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Luxury penthouse with modern interior design for high-end architecture",
+    "image_info": {
+      "url": "https://res.cloudinary.com/dw4e01qx8/f_auto,q_auto/images/mgyml1ev69jiu5iopgaq",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 107067,
+      "width": 993,
+      "height": 636,
+      "total_pixels": 631548,
+      "basic_score": 0.8891817088998841,
+      "file_name": "penthouse_8.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Luxury penthouse with modern interior design for high-end architecture",
+    "image_info": {
+      "url": "https://urbanistarchitecture.co.uk/media/pages/blog/luxury-penthouse-interior-design-london/fd978b4a4b-1738850464/what-is-a-penthouse-1024x.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 129842,
+      "width": 1024,
+      "height": 576,
+      "total_pixels": 589824,
+      "basic_score": 0.8824554241097305,
+      "file_name": "penthouse_6.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Luxury penthouse with modern interior design for high-end architecture",
+    "image_info": {
+      "url": "https://trendesignbook.com/blog/wp-content/uploads/2024/10/Step-In-The-Ultimate-Guide-to-Luxury-Penthouse-Interiors.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 66549,
+      "width": 740,
+      "height": 560,
+      "total_pixels": 414400,
+      "basic_score": 0.828427866407304,
+      "file_name": "penthouse_2.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Modern shopping mall interior with commercial architecture design",
+    "image_info": {
+      "url": "https://6397474.fs1.hubspotusercontent-na1.net/hubfs/6397474/Google%20Drive%20Integration/What%20Is%20Shopping%20Center%20Architecture%20and%20How%20Does%20it%20Affect%20the%20Customer%20Experience.jpeg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 262650,
+      "width": 1600,
+      "height": 900,
+      "total_pixels": 1440000,
+      "basic_score": 0.9031037596860235,
+      "file_name": "shopping_mall_1.jpeg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Modern shopping mall interior with commercial architecture design",
+    "image_info": {
+      "url": "https://interiordesign.net/wp-content/uploads/2024/02/Interior-Design-Best-of-Year-2023-Ippolito-Fleitz-Group-Identity-Architects-idx231201_boy_retail04.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 385948,
+      "width": 1500,
+      "height": 1000,
+      "total_pixels": 1500000,
+      "basic_score": 0.8995531020825612,
+      "file_name": "shopping_mall_0.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Modern shopping mall interior with commercial architecture design",
+    "image_info": {
+      "url": "https://thumbs.dreamstime.com/z/large-shopping-mall-interior-space-design-spacious-modern-featuring-elegant-architectural-perfect-retail-commercial-369862628.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 256949,
+      "width": 1600,
+      "height": 990,
+      "total_pixels": 1584000,
+      "basic_score": 0.866877533687267,
+      "file_name": "shopping_mall_8.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Architecture renovation project showing interior transformation",
+    "image_info": {
+      "url": "https://cdn.homedit.com/wp-content/uploads/2018/12/Siri-house-before-and-after.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 164188,
+      "width": 1000,
+      "height": 802,
+      "total_pixels": 802000,
+      "basic_score": 0.9229186070029258,
+      "file_name": "renovation_project_5.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Architecture renovation project showing interior transformation",
+    "image_info": {
+      "url": "https://b2915716.smushcdn.com/2915716/wp-content/uploads/2023/02/Catherine-Truman-before-and-after_5.jpg?lossy=1&strip=1&webp=1",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 187821,
+      "width": 800,
+      "height": 1200,
+      "total_pixels": 960000,
+      "basic_score": 0.9137750444663685,
+      "file_name": "renovation_project_8.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Architecture renovation project showing interior transformation",
+    "image_info": {
+      "url": "https://dkorinteriors.com/wp-content/uploads/2017/10/Before-and-After_-Contemporary-Coral-Gables-Dream-Home_LivingRoom.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 158378,
+      "width": 835,
+      "height": 975,
+      "total_pixels": 814125,
+      "basic_score": 0.9116977646046898,
+      "file_name": "renovation_project_9.jpg"
+    },
+    "llm_score": null
+  }
+]
